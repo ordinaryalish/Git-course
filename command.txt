@@ -2,3 +2,5 @@ Lesson 66: Collab starts here
 
 Lesson 71: Fetching
 Command: git branch -vv #view diverges local from remote repos
+
+Lesson 73: Pushing
