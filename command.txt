@@ -4,3 +4,8 @@ Lesson 71: Fetching
 Command: git branch -vv #view diverges local from remote repos
 
 Lesson 73: Pushing
+
+Lesson 74: Credentials
+
+Lesson 77: Sharing branch
+Command: git push -u origin [branch name]
