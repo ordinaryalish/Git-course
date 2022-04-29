@@ -7,5 +7,10 @@ Lesson 73: Pushing
 
 Lesson 74: Credentials
 
-Lesson 77: Sharing branch
+Lesson 77: Create remote branch
 Command: git push -u origin [branch name]
+Note: #create remote branch and links it to current local branch
+
+Lesson 78:
+Command: git switch -C [branch name] [remote branch]
+Note: Create and switch to [branch] and links it to fetched [remote branch]
