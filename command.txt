@@ -14,3 +14,5 @@ Note: #create remote branch and links it to current local branch
 Lesson 78:
 Command: git switch -C [branch name] [remote branch]
 Note: Create and switch to [branch] and links it to fetched [remote branch]
+Command: remote prune origin
+Note: Deleted branches in cloud repos but saved remote branches in local will be deleted
