@@ -16,3 +16,26 @@ Command: git switch -C [branch name] [remote branch]
 Note: Create and switch to [branch] and links it to fetched [remote branch]
 Command: remote prune origin
 Note: Deleted branches in cloud repos but saved remote branches in local will be deleted
+
+Lesson 79: Pull request
+
+Lesson 84: Contributing to an Open-Source Project
+
+Lesson 85: Keep a Fork Up to Date
+
+Lesson 88: Rewriting history
+
+
+Lesson 94: Recovering Lost Commit
+Command: git reflog #view history
+Command: git reset --hard [id]
+
+Lesson 95: Amending the Last Commit
+Command: git clean -fd
+Note: remove untracked files from working directory
+
+Lesson 96: Amending an Earlier Commit
+Command: git rebase -i [parent id] or [commit id]^
+
+Lesson 97: Dropping a Commit
+Command: same as Lesson 96
